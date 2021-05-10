@@ -2,6 +2,9 @@ package game;
 import java.util.*;
 
 //Some changes made directly from Github to practice pull from Github into local repository
+
+//Adding another changes to try the tracking from the local
+
 public class SolutionGame {
     
     public static boolean check(int leap, int[] game, int i){
