@@ -1,6 +1,7 @@
 package game;
 import java.util.*;
 
+//Some changes made directly from Github to practice pull from Github into local repository
 public class SolutionGame {
     
     public static boolean check(int leap, int[] game, int i){
